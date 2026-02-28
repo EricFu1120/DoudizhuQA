@@ -1,0 +1,9 @@
+{
+  "api_keys": {
+    "KIMI_API_KEY": "your-kimi-api-key-here",
+    "GLM_API_KEY": "your-glm-api-key-here",
+    "QWEN_API_KEY": "your-qwen-api-key-here",
+    "MINIMAX_API_KEY": "your-minimax-api-key-here",
+    "DEEPSEEK_API_KEY": "your-deepseek-api-key-here"
+  }
+}
